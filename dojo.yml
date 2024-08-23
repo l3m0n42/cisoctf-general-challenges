@@ -4,4 +4,4 @@ name: General Challenges
 award:
   emoji: 🍋
 modules:
-  - id: general_challenges
+  - id: general-challenges
