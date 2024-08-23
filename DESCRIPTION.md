@@ -1,2 +1,1 @@
-This is an [example dojo](https://github.com/pwncollege/example-dojo).
-Fork this repository, and create your own dojo!
+This is a dojo for general challenges that did not fit under a specific project
