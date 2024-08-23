@@ -9,4 +9,4 @@ Now YOU present yourself before him to challenge him for his throne.
 btw:
 Anything that is *italicized* counts as a hint!
 This is an OSINT based challenge 
-Good Luck!
+Best of Luck
