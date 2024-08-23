@@ -1,0 +1,6 @@
+name: general_challenges
+challenges:
+  - id: surely_its_not_...
+    name: Surely It's not...
+  - id: presidential_challenge
+    name: Presidential Challenge

@@ -1,8 +1,7 @@
-id: example
-name: Example Dojo
-type: example
+id: General
+name: General Challenges
+# type: example
 award:
-  emoji: 😀
+  emoji: 🍋
 modules:
-  - id: hello
-  - id: world
+  - id: general_challenges
